@@ -1,0 +1,7 @@
+/**/*.h5
+/**/glove.txt
+/**/node_modules
+/**/data
+/**/predictions
+/**/.idea
+/idea
