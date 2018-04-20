@@ -66,14 +66,7 @@
 - Install all the packages: 
 
   ```
-  pip install pandas
-  pip install numpy
-  pip install scikit-learn
-  pip install nltk
-  pip install distance
-  pip install fuzzywuzzy
-  pip install networkx
-  pip install keras
+  pip install pandas numpy scikit-learn nltk distance fuzzywuzzy networkx keras
   ```
 
 ## Getting Started
