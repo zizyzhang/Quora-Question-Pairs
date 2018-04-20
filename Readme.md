@@ -82,5 +82,16 @@
 - Google Colab
 
 
-
 For more information about this project, please visit "https://github.com/zizyzhang/Quora-Question-Pairs/"
+
+# Setup Demo Server
+
+- Install node.js (v8.0)
+- Install packages via `npm install`
+- Start server by `node server.js`
+- Compile front-end files 
+  - `cd ./front`
+  - `npm install`
+  - `npm run dev`
+- Open http://localhost:8080 to test it.
+
